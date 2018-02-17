@@ -7,6 +7,11 @@ Written by Guppy0130/Nick Yang. Licensed under GNU GPLv3.
 ## Changelog
 02/16/18: First Release. Comes with SpotifyPlugin v1.9.3.0, written in Win10 + Rainmeter 4.2.0r3029
 
+## Screenshots
+### Ethernet
+![Ethernet-no-music](screenshots/ethernet-no-music.png)
+![Ethernet-playing](screenshots/ethernet-playing.png)
+![Ethernet-paused](screenshots/ethernet-paused.png)
 ## Installation
 Obtain the font [Envy Code R](https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released)  
 Use the `.rmskin` package (which will load the theme automatically), or install manually:
