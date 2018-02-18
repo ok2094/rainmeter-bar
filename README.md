@@ -12,6 +12,8 @@ Written by Guppy0130/Nick Yang. Licensed under GNU GPLv3.
 ![Ethernet-no-music](screenshots/ethernet-no-music.png)
 ![Ethernet-playing](screenshots/ethernet-playing.png)
 ![Ethernet-paused](screenshots/ethernet-paused.png)
+![Ethernet-muted](screenshots/ethernet-muted.png)
+### Wireless
 ![Wireless-no-music](screenshots/wireless-no-music.png)
 
 ## Installation
