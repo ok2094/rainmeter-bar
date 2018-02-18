@@ -17,7 +17,7 @@ Written by Guppy0130/Nick Yang. Licensed under GNU GPLv3.
 ![Wireless-no-music](screenshots/wireless-no-music.png)
 
 ## Installation
-Obtain the font [Envy Code R](https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released)  
+Install the font [Envy Code R](https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released)  
 Use the `.rmskin` package (which will load the theme automatically), or install manually:
 
 ```powershell
